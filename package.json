@@ -1,7 +1,7 @@
 {
   "name": "trackify",
   "version": "0.0.0",
-  "description": "",
+  "description": "Trackify analyzes racing videos, detecting key points and optimizing performance by visualizing key metrics and errors.",
   "scripts": {
     "start": "ts-node src/index.ts"
   },
